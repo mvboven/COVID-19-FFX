@@ -4,7 +4,7 @@
 /* Dutch households revealed by dense sampling, Clinical Infectious Diseases */
 /* (2021), https://doi.org/10.1093/cid/ciab237.                              */
 /* Notation is mostly taken from F Ball (1986) Advances in Applied           */
-/* Probability 18, 289-310, and later paers.                                 */
+/* Probability 18, 289-310, and later papers.                                 */
 /* Let a, n and j be the number of initial infections, the number of         */
 /* uninfected individuals in the household, and the number of new            */
 /* infections after the outbreak. Throughout we assume there are 4 types.    */
