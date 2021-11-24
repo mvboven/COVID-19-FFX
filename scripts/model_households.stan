@@ -194,7 +194,7 @@ transformed parameters {
 model {
   /* prior distributions */
   //ext_escape ~ beta(1,1);                           // flat prior for external infection
-  //ext_escape ~ beta(29,1);                          // weekly informative; 95% prior coverage >0.9
+  //ext_escape ~ beta(29,1);                          // weakly informative; 95% prior coverage >0.9
   
   /* log-likelihood */
   target += watanabe_beta * sum(log_lik);
